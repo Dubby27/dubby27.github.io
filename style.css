@@ -12,3 +12,19 @@ div{
     font-family: Caskaydia;
     text-align: center;
 }
+a.youtube:hover{
+    background-color: orangered;
+    color: black !important;
+}
+a.tiktok:hover{
+    background-color: #2af0ea;
+    color: black !important;
+}
+a.instagram:hover{
+    background-color: #ff0073;
+    color: black !important;
+}
+a.hexagon:hover{
+    background-color: #36D1DC;
+    color: black !important;
+}
