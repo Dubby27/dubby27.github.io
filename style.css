@@ -6,14 +6,18 @@
 body{
     background-color: black;
     color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
 }
 div{
-    margin: auto;
     font-family: Caskaydia;
     text-align: center;
 }
 a.youtube:hover{
-    background-color: orangered;
+    background-color: red;
     color: black !important;
 }
 a.tiktok:hover{
